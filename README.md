@@ -1,2 +1,2 @@
-# FSTRans
+# FSTrans
 Official PyTorch code for ''.  
